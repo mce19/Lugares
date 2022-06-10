@@ -1,4 +1,4 @@
-package com.lugares.ui.gallery
+package com.lugares_v.ui.gallery
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.lugares.databinding.FragmentGalleryBinding
+import com.lugares_v.databinding.FragmentGalleryBinding
+import com.lugares_v.viewmodel.GalleryViewModel
 
 class GalleryFragment : Fragment() {
 
