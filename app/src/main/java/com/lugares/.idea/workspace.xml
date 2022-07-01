@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2366c84-fb2d-440c-b99b-a2520b944f4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lugar/AddLufarFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lugar/UpdateLugarFragment.kt" afterDir="false" />
+    <list default="true" id="f2366c84-fb2d-440c-b99b-a2520b944f4f" name="Changes" comment="SEMANA 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,21 @@
       <option name="presentableId" value="Default" />
       <updated>1654881771474</updated>
     </task>
+    <task id="LOCAL-00001" summary="SEMANA 5">
+      <created>1655495557139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655495557139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SEMANA 5">
+      <created>1655495579956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655495579956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +73,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SEMANA 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 5" />
   </component>
 </project>
