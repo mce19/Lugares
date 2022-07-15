@@ -9,7 +9,12 @@ class OtrosUtiles {
             val nombre=SimpleDateFormat("yyyyMMdd_HHmmss", Locale.getDefault()).format(Date())
             return prefijo+nombre
         }
+
+        private fun SimpleDateFormat(s: String, default: Any): Any {
+
+        }
     }
+
 }
 
 

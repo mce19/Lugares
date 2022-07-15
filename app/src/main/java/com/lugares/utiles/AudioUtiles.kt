@@ -24,6 +24,12 @@ class AudioUtiles(
     private val btDelete: ImageButton,
     private val msgIniciaNotaAudio: String,
     private val msgDetieneNotaAudio: String) {
+    class ImageButton {
+        fun setOnClickListener(function: () -> Unit) {
+
+        }
+
+    }
 
     init {
         btAccion.setOnClickListener { grabaStop() }
@@ -114,6 +120,10 @@ class AudioUtiles(
             e.printStackTrace()
         }
     }
+}
+
+enum class Activity {
+
 }
 
 

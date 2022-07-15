@@ -15,12 +15,16 @@ import java.io.File
 
 class ImagenUtiles (
     private val contexto: Context,
-    btPhoto: ImageButton,
-    btRotaL: ImageButton,
-    btRotaR: ImageButton,
+    btPhoto: AudioUtiles.ImageButton,
+    btRotaL: AudioUtiles.ImageButton,
+    btRotaR: AudioUtiles.ImageButton,
     private val imagen: ImageView,
     private var tomarFotoActivity: ActivityResultLauncher<Intent>
 ) {
+    class ImageView {
+
+    }
+
     init {
         btPhoto.setOnClickListener { tomarFoto() }
         btRotaL.setOnClickListener { imagen.rotation=imagen.rotation-90f }
@@ -60,6 +64,10 @@ class ImagenUtiles (
         imagen.setImageBitmap(
             BitmapFactory.decodeFile(imagenFile.absolutePath))
     }
+}
+
+class ActivityResultLauncher<T> {
+
 }
 
 
