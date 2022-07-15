@@ -9,6 +9,8 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import com.lugares.R
+import com.lugares.databinding.ActivityMainBinding
 import com.lugares_v.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
