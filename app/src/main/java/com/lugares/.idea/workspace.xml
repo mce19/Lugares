@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2366c84-fb2d-440c-b99b-a2520b944f4f" name="Changes" comment="SEMANA 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f2366c84-fb2d-440c-b99b-a2520b944f4f" name="Changes" comment="Semana 9 audio_imagens">
+      <change afterPath="$PROJECT_DIR$/utiles/AudioUtiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utiles/ImagenUtiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utiles/OtrosUtiles.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +36,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\ProyectosAndroid\app\src\main\java\com\lugares" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SEMANA 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 5" />
+    <MESSAGE value="Semana 9 audio_imagens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 9 audio_imagens" />
   </component>
 </project>
