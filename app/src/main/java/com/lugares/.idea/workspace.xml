@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2366c84-fb2d-440c-b99b-a2520b944f4f" name="Changes" comment="Semana 9 audio_imagens">
-      <change afterPath="$PROJECT_DIR$/utiles/AudioUtiles.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiles/ImagenUtiles.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiles/OtrosUtiles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
   </component>
   <component name="ProjectId" id="2AOXnDxxy0B80Z93AKZL3KkKb9J" />
@@ -35,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -67,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655495579956</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Semana 9 audio_imagens">
+      <created>1657916612487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657916612487</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Semana 9 audio_imagens">
+      <created>1657916638724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657916638724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
