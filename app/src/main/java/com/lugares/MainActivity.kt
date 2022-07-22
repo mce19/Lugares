@@ -14,7 +14,10 @@ import com.lugares.databinding.ActivityMainBinding
 import com.lugares_v.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+companion object v
+    private const val RC_SIGN
 
+}
     private lateinit var auth: FirebaseAuth
     private lateinit var binding: ActivityMainBinding
 
